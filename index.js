@@ -22,7 +22,9 @@ var questions = [{
 { question :"where do i live?",
 answer: "Siwan"},
 {question:"My school name:", 
-answer:"msvm"}];
+answer:"msvm"},
+{ question:"My college name:",
+answer:"BBDNITM"}];
 
 
 for(var i=0; i<questions.length;i++){
